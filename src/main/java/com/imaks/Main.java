@@ -8,7 +8,7 @@ private static final double CONV_K = 2.20462;
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Converter app.");
+        System.out.println("App for measures converting.");
         System.out.println("Choose operation:");
         System.out.println("Enter 1 to convert KG to LB");
         System.out.println("Enter 2 to convert LB to KG");
