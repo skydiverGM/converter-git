@@ -30,6 +30,7 @@ private static final double CONV_K = 2.20462;
                 System.out.println("Please make your choice. Enter 1 or 2");
         }
 
+        scanner.close();
     }
 private static double kgToLb(double kg){
         return kg * CONV_K;
